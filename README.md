@@ -7,4 +7,4 @@
 ## Spam Bots Available Till Now
 1) [Spam Bomb](Spam_bomb.py) (A Spam bot which spams people's inboxes in what's app through Google Chrome Web Browser)
 
-#### We made This Repository Using Python. If you find it funny or helpful or stressful do gives us a ☆
+#### We made This Repository Using Python. If you find it funny or helpful or less stressfull do gives us a ☆
