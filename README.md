@@ -1,7 +1,7 @@
 # SPAM BOTS
 ![](ss.png)
 
-* Before Making any Contribution make sure you read the [Guidelines](Guidelines.md) properly.
+* Before Making any Contribution make sure you read the [Guidelines](Guidlines.md) properly.
 * Struck and Unable to make any Contributions even if you want check out [How to Contribute](how_to_contribute.md)
 
 ## Spam Bots Available Till Now
